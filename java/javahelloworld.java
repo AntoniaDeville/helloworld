@@ -1,4 +1,4 @@
-FROM java:_
+FROM java:8
 
  
 
